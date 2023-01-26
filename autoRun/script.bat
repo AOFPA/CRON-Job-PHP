@@ -1,0 +1,1 @@
+php "C:\xampp\htdocs\cron-job-php\autoInsert.php"
